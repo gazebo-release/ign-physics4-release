@@ -1,0 +1,5 @@
+usr/include/ignition/physics*/ignition/physics/dartsim*/*
+usr/lib/*/cmake/ignition-physics[0-99]-dartsim*/*
+usr/lib/*/libignition-physics[0-99]-dartsim*.so
+usr/lib/*/ign-physics-[0-99]/engine-plugins/libignition-physics*-dartsim*.so
+usr/lib/*/pkgconfig/ignition-physics[0-99]-dartsim*.pc

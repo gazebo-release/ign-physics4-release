@@ -1,0 +1,23 @@
+ignition-physics2 (2.1.0-2~buster) buster; urgency=medium
+
+  * ignition-physics2 2.1.0-2 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Thu, 28 May 2020 08:40:42 -0700
+
+ignition-physics2 (2.1.0-1~buster) buster; urgency=medium
+
+  * ignition-physics2 2.1.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Fri, 08 May 2020 09:28:55 -0700
+
+ignition-physics2 (2.0.0-2~buster) buster; urgency=medium
+
+  * ignition-physics2 2.0.0-2 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Sat, 25 Apr 2020 18:55:11 +0200
+
+ignition-physics2 (2.0.0-1~buster) buster; urgency=medium
+
+  * ignition-physics2 2.0.0-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 11 Dec 2019 00:09:59 +0100
