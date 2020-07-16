@@ -1,18 +1,6 @@
-ignition-physics2 (2.1.0-2~focal) focal; urgency=medium
+ignition-physics3 (2.999.999-1~focal) focal; urgency=medium
 
-  * ignition-physics2 2.1.0-2 release
+  * Stub to be removed after first entry
 
- -- Louise Poubel <louise@openrobotics.org>  Thu, 28 May 2020 08:40:42 -0700
-
-ignition-physics2 (2.1.0-1~focal) focal; urgency=medium
-
-  * ignition-physics2 2.1.0-1 release
-
- -- Louise Poubel <louise@openrobotics.org>  Fri, 08 May 2020 09:28:55 -0700
-
-ignition-physics2 (2.0.0-1~focal) focal; urgency=medium
-
-  * ignition-physics2 2.0.0-1 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 11 Dec 2019 00:09:59 +0100
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 16 Jul 2020 18:23:13 +0200
 

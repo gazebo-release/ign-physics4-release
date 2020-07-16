@@ -1,42 +1,6 @@
-ignition-physics2 (2.1.0-2~sid) sid; urgency=medium
+ignition-physics3 (2.999.999-1~sid) sid; urgency=medium
 
-  * ignition-physics2 2.1.0-2 release
+  * Stub to be removed after first entry
 
- -- Louise Poubel <louise@openrobotics.org>  Thu, 28 May 2020 08:40:42 -0700
-
-ignition-physics2 (2.1.0-1~sid) sid; urgency=medium
-
-  * ignition-physics2 2.1.0-1 release
-
- -- Louise Poubel <louise@openrobotics.org>  Fri, 08 May 2020 09:28:55 -0700
-
-ignition-physics2 (2.0.0-2~sid) sid; urgency=medium
-
-  * ignition-physics2 2.0.0-2 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Sat, 25 Apr 2020 18:55:11 +0200
-
-ignition-physics2 (2.0.0-1~sid) sid; urgency=medium
-
-  * ignition-physics2 2.0.0-1 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 11 Dec 2019 00:09:59 +0100
-
-ignition-physics2 (2.0.0~pre1-3~sid) sid; urgency=medium
-
-  * ignition-physics2 2.0.0~pre1-3 release
-
- -- Louise Poubel <louise@openrobotics.org>  Wed, 04 Dec 2019 22:06:20 -0800
-
-ignition-physics2 (2.0.0~pre1-2~sid) sid; urgency=medium
-
-  * ignition-physics2 2.0.0~pre1-2 release
-
- -- Louise Poubel <louise@openrobotics.org>  Wed, 04 Dec 2019 21:38:21 -0800
-
-ignition-physics2 (2.0.0~pre1-1~sid) sid; urgency=medium
-
-  * ignition-physics2 2.0.0~pre1-1 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 05 Dec 2019 00:18:53 +0100
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 16 Jul 2020 18:23:13 +0200
 
