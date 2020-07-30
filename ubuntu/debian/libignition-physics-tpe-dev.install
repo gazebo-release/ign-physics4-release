@@ -1,0 +1,7 @@
+usr/include/ignition/physics*/ignition/physics/tpe-plugin/*
+usr/lib/*/cmake/ignition-physics[0-99]-tpe-plugin/*
+usr/lib/*/cmake/ignition-physics[0-99]-tpe/*
+usr/lib/*/libignition-physics[0-99]-tpe-plugin.so
+usr/lib/*/ign-physics-[0-99]/engine-plugins/libignition-physics*-tpe-plugin.so
+usr/lib/*/pkgconfig/ignition-physics[0-99]-tpe-plugin.pc
+usr/lib/*/pkgconfig/ignition-physics[0-99]-tpe.pc

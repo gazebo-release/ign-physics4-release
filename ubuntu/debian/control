@@ -121,6 +121,66 @@ Description: Ignition Physics classes and functions for robot apps - Dartsim lib
   .
   DARTSim component shared library
 
+Package: libignition-physics3-tpe-dev
+Architecture: any
+Section: libdevel
+Depends: libignition-physics3-core-dev,
+         libignition-physics3-sdf-dev,
+         libignition-physics3-mesh-dev,
+         libignition-cmake2-dev,
+         libignition-math6-dev,
+         libignition-math6-eigen3-dev,
+         libignition-plugin-dev (>= 1.1.0),
+         libsdformat10-dev,
+         libignition-physics3-tpe (= ${binary:Version}),
+         ${misc:Depends}
+Multi-Arch: same
+Description: Ignition Physics classes and functions for robot apps - Development files
+  Ignition Physics is a component in the ignition framework, a set of libraries
+  designed to rapidly develop robot applications.
+  .
+  TPE plugin component, development files
+
+Package: libignition-physics3-tpe
+Architecture: any
+Section: libs
+Pre-Depends: ${misc:Pre-Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Multi-Arch: same
+Description: Ignition Physics classes and functions for robot apps - Dartsim library
+  Ignition Physics is a component in the ignition framework, a set of libraries
+  designed to rapidly develop robot applications.
+  .
+  TPE plugin component shared library
+
+Package: libignition-physics3-tpelib-dev
+Architecture: any
+Section: libdevel
+Depends: libignition-cmake2-dev,
+         libignition-math6-dev,
+         libignition-math6-eigen3-dev,
+         libignition-plugin-dev (>= 1.1.0),
+         libignition-physics3-tpelib (= ${binary:Version}),
+         ${misc:Depends}
+Multi-Arch: same
+Description: Ignition Physics classes and functions for robot apps - Development files
+  Ignition Physics is a component in the ignition framework, a set of libraries
+  designed to rapidly develop robot applications.
+  .
+  TPE library component, development files
+
+Package: libignition-physics3-tpelib
+Architecture: any
+Section: libs
+Pre-Depends: ${misc:Pre-Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Multi-Arch: same
+Description: Ignition Physics classes and functions for robot apps - Dartsim library
+  Ignition Physics is a component in the ignition framework, a set of libraries
+  designed to rapidly develop robot applications.
+  .
+  TPE library component shared library
+
 Package: libignition-physics3-dev
 Architecture: any
 Section: libdevel
@@ -128,6 +188,8 @@ Depends: libignition-physics3-core-dev,
          libignition-physics3-dartsim-dev,
          libignition-physics3-mesh-dev,
          libignition-physics3-sdf-dev,
+         libignition-physics3-tpe-dev,
+         libignition-physics3-tpelib-dev,
          ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Physics classes and functions for robot apps - Metapackage
