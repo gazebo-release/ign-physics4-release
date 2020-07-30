@@ -175,7 +175,7 @@ Section: libs
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
-Description: Ignition Physics classes and functions for robot apps - Dartsim library
+Description: Ignition Physics classes and functions for robot apps - TPE library
   Ignition Physics is a component in the ignition framework, a set of libraries
   designed to rapidly develop robot applications.
   .
