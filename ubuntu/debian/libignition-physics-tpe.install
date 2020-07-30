@@ -1,0 +1,2 @@
+usr/lib/*/libignition-physics[0-99]-tpe-plugin*.so.*
+usr/lib/*/ign-physics-[0-99]/engine-plugins/libignition-physics*-tpe-plugin*.so.*
