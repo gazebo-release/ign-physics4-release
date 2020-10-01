@@ -1,3 +1,9 @@
+ignition-physics3 (3.0.0-1~sid) sid; urgency=medium
+
+  * ignition-physics3 3.0.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Wed, 30 Sep 2020 18:31:44 -0700
+
 ignition-physics3 (3.0.0~pre1-1~sid) sid; urgency=medium
 
   * ignition-physics3 3.0.0~pre1-1 release
