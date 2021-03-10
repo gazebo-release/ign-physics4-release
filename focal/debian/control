@@ -33,7 +33,6 @@ Depends: libignition-cmake2-dev (>= 2.1.0),
          libignition-plugin-dev,
          libignition-physics4 (= ${binary:Version}),
          libignition-utils1-dev,
-         libignition-utils1-cli-dev,
          ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Physics classes and functions for robot apps - Development files
