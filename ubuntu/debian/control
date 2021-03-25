@@ -16,6 +16,7 @@ Build-Depends: cmake,
                libignition-utils1-cli-dev,
 # dart without major version number to get versions coming from Debian
                libdart6-dev (<< 6.10.0) | libdart-dev (<< 6.10.0),
+               libdart6-collision-bullet-dev (<< 6.10.0) | libdart-collision-bullet-dev (<< 6.10.0),
                libdart6-collision-ode-dev (<< 6.10.0) | libdart-collision-ode-dev (<< 6.10.0),
                libdart6-external-ikfast-dev (<< 6.10.0) | libdart-external-ikfast-dev (<< 6.10.0),
                libdart6-external-odelcpsolver-dev (<< 6.10.0) | libdart-external-odelcpsolver-dev (<< 6.10.0),
