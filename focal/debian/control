@@ -102,7 +102,7 @@ Depends: libignition-physics4-core-dev,
          libdart6-utils-dev (<< 6.10.0) | libdart-utils-dev (>> 6.9.0),
          libdart6-external-odelcpsolver-dev (<< 6.10.0) | libdart-external-odelcpsolver-dev (>> 6.9.0),
          libdart6-external-ikfast-dev (<< 6.10.0) | libdart-external-ikfast-dev (>> 6.9.0),
-         libdart6-collision-bullet-dev (<< 6.10.0) | libdart-collision-bullet-dev (>> 6.0.0),
+         libdart6-collision-bullet-dev (<< 6.10.0) | libdart-collision-bullet-dev (>> 6.9.0),
          libsdformat11-dev,
          libignition-physics4-dartsim (= ${binary:Version}),
          ${misc:Depends}
