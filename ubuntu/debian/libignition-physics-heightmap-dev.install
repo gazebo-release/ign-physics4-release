@@ -1,0 +1,3 @@
+usr/include/ignition/physics*/ignition/physics/heightmap/*
+usr/lib/*/cmake/ignition-physics[0-99]-heightmap/*
+usr/lib/*/pkgconfig/ignition-physics[0-99]-heightmap.pc
