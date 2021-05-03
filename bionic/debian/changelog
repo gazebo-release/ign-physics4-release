@@ -1,3 +1,9 @@
+ignition-physics4 (4.1.0-1~bionic) bionic; urgency=medium
+
+  * ignition-physics4 4.1.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Mon, 03 May 2021 09:08:56 -0700
+
 ignition-physics4 (4.0.0-1~bionic) bionic; urgency=medium
 
   * ignition-physics4 4.0.0-1 release
