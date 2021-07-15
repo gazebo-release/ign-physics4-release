@@ -74,6 +74,21 @@ Description: Ignition Physics classes and functions for robot apps - Mesh Dev fi
   .
   Mesh component, development files
 
+Package: libignition-physics4-heightmap-dev
+Architecture: any
+Section: libdevel
+Depends: libignition-physics4-core-dev (= ${binary:Version}),
+         libignition-cmake2-dev (>= 2.1.0),
+         libignition-common4-graphics-dev,
+         libignition-physics4 (= ${binary:Version}),
+         ${misc:Depends}
+Multi-Arch: same
+Description: Ignition Physics classes and functions for robot apps - Heightmap Dev files
+  Ignition Physics is a component in the ignition framework, a set of libraries
+  designed to rapidly develop robot applications.
+  .
+  Heightmap component, development files
+
 Package: libignition-physics4
 Architecture: any
 Section: libs
@@ -92,6 +107,7 @@ Section: libdevel
 Depends: libignition-physics4-core-dev (= ${binary:Version}),
          libignition-physics4-sdf-dev (= ${binary:Version}),
          libignition-physics4-mesh-dev (= ${binary:Version}),
+         libignition-physics4-heightmap-dev (= ${binary:Version}),
          libignition-cmake2-dev (>= 2.1.0),
          libignition-common4-graphics-dev,
          libignition-math6-dev,
@@ -224,6 +240,7 @@ Architecture: any
 Section: libdevel
 Depends: libignition-physics4-core-dev (= ${binary:Version}),
          libignition-physics4-dartsim-dev (= ${binary:Version}),
+         libignition-physics4-heightmap-dev (= ${binary:Version}),
          libignition-physics4-mesh-dev (= ${binary:Version}),
          libignition-physics4-sdf-dev (= ${binary:Version}),
          libignition-physics4-tpe-dev (= ${binary:Version}),
