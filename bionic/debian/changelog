@@ -1,3 +1,9 @@
+ignition-physics4 (4.2.0~pre1-1~bionic) bionic; urgency=medium
+
+  * ignition-physics4 4.2.0~pre1-1 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Thu, 15 Jul 2021 15:05:37 -0700
+
 ignition-physics4 (4.1.0-1~bionic) bionic; urgency=medium
 
   * ignition-physics4 4.1.0-1 release
