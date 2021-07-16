@@ -23,7 +23,7 @@ Build-Depends: cmake,
                libdart6-external-odelcpsolver-dev (<< 6.10.0) | libdart-external-odelcpsolver-dev (<< 6.10.0),
                libdart6-utils-dev (<< 6.10.0) | libdart-utils-dev (<< 6.10.0),
                libdart6-utils-urdf-dev (<< 6.10.0) | libdart-utils-urdf-dev (<< 6.10.0),
-               libsdformat11-dev
+               libsdformat11-dev (>= 11.2.2)
 Vcs-Browser: https://github.com/ignition-release/ign-physics4-release
 Vcs-Git: https://github.com/ignition-release/ign-physics4-release
 Homepage: http://ignitionrobotics.org/
@@ -49,7 +49,7 @@ Architecture: any
 Section: libdevel
 Depends: libignition-physics4-core-dev (= ${binary:Version}),
          libignition-cmake2-dev (>= 2.1.0),
-         libsdformat11-dev,
+         libsdformat11-dev (>= 11.2.2),
          libignition-physics4 (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
@@ -120,7 +120,7 @@ Depends: libignition-physics4-core-dev (= ${binary:Version}),
          libdart6-external-odelcpsolver-dev (<< 6.10.0) | libdart-external-odelcpsolver-dev (<< 6.10.0),
          libdart6-external-ikfast-dev (<< 6.10.0) | libdart-external-ikfast-dev (<< 6.10.0),
          libdart6-collision-bullet-dev (<< 6.10.0) | libdart-collision-bullet-dev (<< 6.10.0),
-         libsdformat11-dev,
+         libsdformat11-dev (>= 11.2.2),
          libignition-physics4-dartsim (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
@@ -152,7 +152,7 @@ Depends: libignition-physics4-core-dev (= ${binary:Version}),
          libignition-math6-dev,
          libignition-math6-eigen3-dev,
          libignition-plugin-dev (>= 1.1.0),
-         libsdformat11-dev,
+         libsdformat11-dev (>= 11.2.2),
          libignition-physics4-tpe (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
@@ -213,7 +213,7 @@ Depends: libignition-physics4-core-dev (= ${binary:Version}),
          libignition-math6-dev,
          libignition-plugin-dev (>= 1.1.0),
          libbullet-dev,
-         libsdformat11-dev,
+         libsdformat11-dev (>= 11.2.2),
          libignition-physics4-bullet (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
