@@ -1,3 +1,9 @@
+ignition-physics4 (4.3.0-1~focal) focal; urgency=medium
+
+  * ignition-physics4 4.3.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Thu, 11 Nov 2021 10:18:02 -0800
+
 ignition-physics4 (4.2.0-1~focal) focal; urgency=medium
 
   * ignition-physics4 4.2.0-1 release
